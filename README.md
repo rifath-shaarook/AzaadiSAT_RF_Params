@@ -1,10 +1,3 @@
-Preliminary TLE File v1
-
-AZAADISAT
-1 99999U          22219.16750000  .00000000  00000-0  50000-4 0    02
-2 99999  37.0800 290.2000 0003319 320.6500 231.4200 15.71149252    09
-
-
 AzaadiSAT - LoRa Parameters:
 Carrier Frequency: 437.4 Mhz
 Bandwidth: 125.0 kHz
